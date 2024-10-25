@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
       <div className="mt-8">
         <p className="text-center">
-          © <span className="text-brightRed">United gym</span> | {newDate}
+          © <span className="text-brightRed">VMAD Technologies</span> | {newDate}
         </p>
       </div>
     </div>
